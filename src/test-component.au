@@ -3,7 +3,7 @@
 </template>
 
 <script>
-export default class MyComponent {
+export class TestComponent {
     @bindable myProp;
 }
 </script>
